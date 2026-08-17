@@ -25,7 +25,7 @@ INSERT INTO table_name SELECT * FROM other_table WHERE condition;
 ```
 ### 2. UPDATE
 Used to modify records in a relation.
-Syntax:
+Syntax: 
 ```sql
 UPDATE table_name SET column1 = value1, column2 = value2 WHERE condition;
 ```

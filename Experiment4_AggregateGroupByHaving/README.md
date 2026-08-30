@@ -205,6 +205,8 @@ HAVING MIN(category_id) < 3;
 
 <img width="731" height="402" alt="image" src="https://github.com/user-attachments/assets/d630e692-75c9-435d-a77f-3c299eaff4d4" />
 
+## GRADE:
+<img width="600" height="202" alt="image" src="https://github.com/user-attachments/assets/8156b56e-c5a5-4fe6-8b38-bf6ea92b1f34" />
 
 
 ## RESULT

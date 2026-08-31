@@ -227,6 +227,9 @@ ORDER BY ID;
 
 <img width="1160" height="392" alt="image" src="https://github.com/user-attachments/assets/38e37930-6ba3-4c2a-897a-03515bb7c4fd" />
 
+## GRADE:
+
+<img width="698" height="165" alt="image" src="https://github.com/user-attachments/assets/89295dcd-dc3c-444d-b42a-62d9032e6692" />
 
 
 ## RESULT
